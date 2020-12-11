@@ -103,6 +103,10 @@ export default class ApmBase {
         loggingService.warn('RUM agent is inactive')
       }
     }
+    if (this.isEnabled() && this._initialized) {
+      this.config(config)
+    }
+
     return this
   }
 
