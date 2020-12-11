@@ -61,7 +61,7 @@ Because the downloading and initializing of the agent happens asynchronously,
 distributed tracing will not work for requests that occur before the agent is initialized.
 
 NOTE: Please download the latest version of RUM agent from https://github.com/elastic/apm-agent-rum-js/releases/latest[GitHub] or
-https://unpkg.com/@elastic/apm-rum/dist/bundles/elastic-apm-rum.umd.min.js[UNPKG]
+https://unpkg.com/@ipsum/apm-rum/dist/bundles/elastic-apm-rum.umd.min.js[UNPKG]
 and host the file in your Server/CDN before deploying to production. Remember to
 use a proper versioning scheme and set a far future `max-age` and `immutable`
 in the https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control[cache-control]
@@ -78,14 +78,14 @@ Install the Real User Monitoring APM agent as a dependency to your application:
 
 [source,bash]
 ----
-npm install @elastic/apm-rum --save 
+npm install @ipsum/apm-rum --save 
 ----
 
 Configure the agent:
 
 [source,js]
 ----
-import { init as initApm } from '@elastic/apm-rum'
+import { init as initApm } from '@ipsum/apm-rum'
 
 const apm = initApm({
   

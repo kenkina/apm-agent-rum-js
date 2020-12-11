@@ -25,7 +25,7 @@
 
 import { init, apm, apmBase, ApmBase } from './index'
 import { Tracer } from 'opentracing/lib/tracer'
-import { createTracer as createElasticTracer } from '@elastic/apm-rum-core'
+import { createTracer as createElasticTracer } from '@ipsum/apm-rum-core'
 
 function createTracer(apmBase) {
   /**

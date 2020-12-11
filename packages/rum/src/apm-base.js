@@ -30,7 +30,7 @@ import {
   CONFIG_SERVICE,
   LOGGING_SERVICE,
   APM_SERVER
-} from '@elastic/apm-rum-core'
+} from '@ipsum/apm-rum-core'
 
 export default class ApmBase {
   constructor(serviceFactory, disable) {

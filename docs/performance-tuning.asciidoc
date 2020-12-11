@@ -22,7 +22,7 @@ Here's an example of setting the sample rate to 20%:
 
 [source,js]
 ----
-import { apm } from "@elastic/apm-rum"
+import { apm } from "@ipsum/apm-rum"
 
 apm.init({
   transactionSampleRate: 0.2

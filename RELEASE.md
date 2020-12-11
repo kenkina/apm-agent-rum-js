@@ -23,11 +23,11 @@ To publish all the packages run `npm run release` with the required environment 
 
 ### Releasing single package
 
-To publish a single package, run `npm run release-package -- @elastic/apm-rum` which uses `lerna publish` under the hood to publish single package to NPM
+To publish a single package, run `npm run release-package -- @ipsum/apm-rum` which uses `lerna publish` under the hood to publish single package to NPM
 
 ### Releasing artifacts to GitHub
 
-Use `npm run github-release` in the root directory, the script takes care packaging and creating a release for `@elastic/apm-rum` in GitHub with the previous annonated tag.
+Use `npm run github-release` in the root directory, the script takes care packaging and creating a release for `@ipsum/apm-rum` in GitHub with the previous annonated tag.
 
 **Note: Make sure you pass the GITHUB_TOKEN (with push access) in your environment variable while releasing**
 
@@ -52,4 +52,4 @@ The release process is also automated in the way any specific commit from the ma
 1. Confirm if the list of changes are the ones that are expected.
 1. Click on the URL from the email.
 1. Click on approve or abort.
-1. Then you can go to the `https://www.npmjs.com/package/@elastic/apm-rum` and [GitHub releases](https://github.com/elastic/apm-agent-rum-js/releases) to validate that the bundles and release notes have been published.
+1. Then you can go to the `https://www.npmjs.com/package/@ipsum/apm-rum` and [GitHub releases](https://github.com/elastic/apm-agent-rum-js/releases) to validate that the bundles and release notes have been published.

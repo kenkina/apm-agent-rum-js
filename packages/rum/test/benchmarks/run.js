@@ -88,7 +88,7 @@ process.on('unhandledRejection', reason => {
     const results = calculateResults(resultMap)
 
     console.log(
-      '@elastic/apm-rum benchmarks',
+      '@ipsum/apm-rum benchmarks',
       JSON.stringify(results, undefined, 2)
     )
 

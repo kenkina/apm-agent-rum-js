@@ -170,10 +170,10 @@
     "zone.js": "^0.10.2"
   },
   "dependencies": {
-    "@elastic/apm-rum": "file:packages/rum",
-    "@elastic/apm-rum-angular": "file:packages/rum-angular",
-    "@elastic/apm-rum-core": "file:packages/rum-core",
-    "@elastic/apm-rum-react": "file:packages/rum-react",
-    "@elastic/apm-rum-vue": "file:packages/rum-vue"
+    "@ipsum/apm-rum": "file:packages/rum",
+    "@ipsum/apm-rum-angular": "file:packages/rum-angular",
+    "@ipsum/apm-rum-core": "file:packages/rum-core",
+    "@ipsum/apm-rum-react": "file:packages/rum-react",
+    "@ipsum/apm-rum-vue": "file:packages/rum-vue"
   }
 }

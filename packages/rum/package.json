@@ -1,5 +1,5 @@
 {
-  "name": "@elastic/apm-rum",
+  "name": "@ipsum/apm-rum",
   "version": "5.6.2",
   "description": "Elastic APM JavaScript agent",
   "main": "dist/lib/index.js",
@@ -46,7 +46,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@elastic/apm-rum-core": "file:../rum-core"
+    "@ipsum/apm-rum-core": "file:../rum-core"
   },
   "bundlesize": [
     {

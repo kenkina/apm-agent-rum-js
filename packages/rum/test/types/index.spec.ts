@@ -23,7 +23,7 @@
  *
  */
 
-import { ApmBase, init } from '@elastic/apm-rum'
+import { ApmBase, init } from '@ipsum/apm-rum'
 
 const config: AgentConfigOptions = {
   active: true,

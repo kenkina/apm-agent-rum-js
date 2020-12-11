@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [5.8.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.7.0...@elastic/apm-rum-core@5.8.0) (2020-11-06)
+# [5.8.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.7.0...@ipsum/apm-rum-core@5.8.0) (2020-11-06)
 
 
 ### Features
@@ -15,7 +15,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.7.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.6.1...@elastic/apm-rum-core@5.7.0) (2020-09-29)
+# [5.7.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.6.1...@ipsum/apm-rum-core@5.7.0) (2020-09-29)
 
 
 ### Bug Fixes
@@ -31,7 +31,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.6.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.6.0...@elastic/apm-rum-core@5.6.1) (2020-09-17)
+## [5.6.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.6.0...@ipsum/apm-rum-core@5.6.1) (2020-09-17)
 
 
 ### Bug Fixes
@@ -49,7 +49,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.6.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.5.0...@elastic/apm-rum-core@5.6.0) (2020-08-18)
+# [5.6.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.5.0...@ipsum/apm-rum-core@5.6.0) (2020-08-18)
 
 
 ### Bug Fixes
@@ -68,7 +68,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.5.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.4.0...@elastic/apm-rum-core@5.5.0) (2020-07-29)
+# [5.5.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.4.0...@ipsum/apm-rum-core@5.5.0) (2020-07-29)
 
 
 ### Features
@@ -79,7 +79,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.4.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.3.1...@elastic/apm-rum-core@5.4.0) (2020-07-06)
+# [5.4.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.3.1...@ipsum/apm-rum-core@5.4.0) (2020-07-06)
 
 
 ### Features
@@ -93,7 +93,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.3.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.3.0...@elastic/apm-rum-core@5.3.1) (2020-06-24)
+## [5.3.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.3.0...@ipsum/apm-rum-core@5.3.1) (2020-06-24)
 
 
 ### Bug Fixes
@@ -105,7 +105,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.3.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.2.0...@elastic/apm-rum-core@5.3.0) (2020-05-28)
+# [5.3.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.2.0...@ipsum/apm-rum-core@5.3.0) (2020-05-28)
 
 
 ### Bug Fixes
@@ -132,7 +132,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.2.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.1.0...@elastic/apm-rum-core@5.2.0) (2020-04-15)
+# [5.2.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.1.0...@ipsum/apm-rum-core@5.2.0) (2020-04-15)
 
 
 ### Features
@@ -143,7 +143,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.1.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@5.0.0...@elastic/apm-rum-core@5.1.0) (2020-04-08)
+# [5.1.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@5.0.0...@ipsum/apm-rum-core@5.1.0) (2020-04-08)
 
 
 ### Bug Fixes
@@ -165,7 +165,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.0.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.10.1...@elastic/apm-rum-core@5.0.0) (2020-03-18)
+# [5.0.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.10.1...@ipsum/apm-rum-core@5.0.0) (2020-03-18)
 
 
 ### Features
@@ -184,7 +184,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.10.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.10.0...@elastic/apm-rum-core@4.10.1) (2020-03-09)
+## [4.10.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.10.0...@ipsum/apm-rum-core@4.10.1) (2020-03-09)
 
 
 ### Bug Fixes
@@ -196,7 +196,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [4.10.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.9.1...@elastic/apm-rum-core@4.10.0) (2020-03-03)
+# [4.10.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.9.1...@ipsum/apm-rum-core@4.10.0) (2020-03-03)
 
 
 ### Bug Fixes
@@ -213,7 +213,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.9.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.9.0...@elastic/apm-rum-core@4.9.1) (2020-02-14)
+## [4.9.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.9.0...@ipsum/apm-rum-core@4.9.1) (2020-02-14)
 
 
 ### Bug Fixes
@@ -224,7 +224,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [4.9.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.8.1...@elastic/apm-rum-core@4.9.0) (2020-02-13)
+# [4.9.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.8.1...@ipsum/apm-rum-core@4.9.0) (2020-02-13)
 
 
 ### Bug Fixes
@@ -244,7 +244,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.8.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.8.0...@elastic/apm-rum-core@4.8.1) (2020-01-30)
+## [4.8.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.8.0...@ipsum/apm-rum-core@4.8.1) (2020-01-30)
 
 
 ### Bug Fixes
@@ -257,7 +257,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [4.8.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.7.0...@elastic/apm-rum-core@4.8.0) (2020-01-15)
+# [4.8.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.7.0...@ipsum/apm-rum-core@4.8.0) (2020-01-15)
 
 
 ### Bug Fixes
@@ -282,7 +282,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [4.7.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.6.1...@elastic/apm-rum-core@4.7.0) (2019-11-19)
+# [4.7.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.6.1...@ipsum/apm-rum-core@4.7.0) (2019-11-19)
 
 
 ### Bug Fixes
@@ -305,7 +305,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.6.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.6.0...@elastic/apm-rum-core@4.6.1) (2019-10-09)
+## [4.6.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.6.0...@ipsum/apm-rum-core@4.6.1) (2019-10-09)
 
 
 ### Bug Fixes
@@ -316,7 +316,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [4.6.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.5.4...@elastic/apm-rum-core@4.6.0) (2019-09-30)
+# [4.6.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.5.4...@ipsum/apm-rum-core@4.6.0) (2019-09-30)
 
 
 ### Bug Fixes
@@ -336,7 +336,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.5.4](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.5.3...@elastic/apm-rum-core@4.5.4) (2019-09-17)
+## [4.5.4](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.5.3...@ipsum/apm-rum-core@4.5.4) (2019-09-17)
 
 
 ### Bug Fixes
@@ -347,15 +347,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.5.3](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.5.2...@elastic/apm-rum-core@4.5.3) (2019-09-03)
+## [4.5.3](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.5.2...@ipsum/apm-rum-core@4.5.3) (2019-09-03)
 
-**Note:** Version bump only for package @elastic/apm-rum-core
-
-
+**Note:** Version bump only for package @ipsum/apm-rum-core
 
 
 
-## [4.5.2](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.5.1...@elastic/apm-rum-core@4.5.2) (2019-08-08)
+
+
+## [4.5.2](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.5.1...@ipsum/apm-rum-core@4.5.2) (2019-08-08)
 
 
 ### Bug Fixes
@@ -366,15 +366,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.5.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.5.0...@elastic/apm-rum-core@4.5.1) (2019-08-05)
+## [4.5.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.5.0...@ipsum/apm-rum-core@4.5.1) (2019-08-05)
 
-**Note:** Version bump only for package @elastic/apm-rum-core
-
-
+**Note:** Version bump only for package @ipsum/apm-rum-core
 
 
 
-# [4.5.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.4.0...@elastic/apm-rum-core@4.5.0) (2019-08-05)
+
+
+# [4.5.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.4.0...@ipsum/apm-rum-core@4.5.0) (2019-08-05)
 
 
 ### Bug Fixes
@@ -391,7 +391,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [4.4.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.3.0...@elastic/apm-rum-core@4.4.0) (2019-07-25)
+# [4.4.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.3.0...@ipsum/apm-rum-core@4.4.0) (2019-07-25)
 
 
 ### Bug Fixes
@@ -408,7 +408,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [4.3.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.1.1...@elastic/apm-rum-core@4.3.0) (2019-07-11)
+# [4.3.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.1.1...@ipsum/apm-rum-core@4.3.0) (2019-07-11)
 
 
 ### Bug Fixes
@@ -416,7 +416,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **rum:core:** send labels via context.tags in the payload ([#316](https://github.com/elastic/apm-agent-rum-js/issues/316)) ([526c3e7](https://github.com/elastic/apm-agent-rum-js/commit/526c3e7))
 
 
-# [4.2.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.1.1...@elastic/apm-rum-core@4.2.0) (2019-07-08)
+# [4.2.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.1.1...@ipsum/apm-rum-core@4.2.0) (2019-07-08)
 
 
 ### Bug Fixes
@@ -437,7 +437,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.1.0...@elastic/apm-rum-core@4.1.1) (2019-06-20)
+## [4.1.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.1.0...@ipsum/apm-rum-core@4.1.1) (2019-06-20)
 
 
 ### Bug Fixes
@@ -448,7 +448,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [4.1.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.0.2...@elastic/apm-rum-core@4.1.0) (2019-06-12)
+# [4.1.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.0.2...@ipsum/apm-rum-core@4.1.0) (2019-06-12)
 
 
 ### Bug Fixes
@@ -471,7 +471,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.0.2](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.0.1...@elastic/apm-rum-core@4.0.2) (2019-05-29)
+## [4.0.2](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.0.1...@ipsum/apm-rum-core@4.0.2) (2019-05-29)
 
 
 ### Bug Fixes
@@ -490,7 +490,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.0.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-core@4.0.0...@elastic/apm-rum-core@4.0.1) (2019-03-21)
+## [4.0.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-core@4.0.0...@ipsum/apm-rum-core@4.0.1) (2019-03-21)
 
 
 ### Bug Fixes

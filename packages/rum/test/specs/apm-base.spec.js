@@ -24,12 +24,8 @@
  */
 
 import ApmBase from '../../src/apm-base'
-import {
-  createServiceFactory,
-  bootstrap,
-  PAGE_LOAD
-} from '@elastic/apm-rum-core'
-import { TRANSACTION_END } from '@elastic/apm-rum-core/src/common/constants'
+import { createServiceFactory, bootstrap, PAGE_LOAD } from '@ipsum/apm-rum-core'
+import { TRANSACTION_END } from '@ipsum/apm-rum-core/src/common/constants'
 import { getGlobalConfig } from '../../../../dev-utils/test-config'
 import Promise from 'promise-polyfill'
 

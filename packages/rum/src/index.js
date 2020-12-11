@@ -23,11 +23,7 @@
  *
  */
 
-import {
-  createServiceFactory,
-  bootstrap,
-  isBrowser
-} from '@elastic/apm-rum-core'
+import { createServiceFactory, bootstrap, isBrowser } from '@ipsum/apm-rum-core'
 import ApmBase from './apm-base'
 
 /**

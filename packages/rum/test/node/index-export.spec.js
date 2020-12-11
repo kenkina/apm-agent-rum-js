@@ -23,8 +23,8 @@
  *
  */
 
-const elasticApm = require('@elastic/apm-rum')
-const { init: namedInit, apm, apmBase, ApmBase } = require('@elastic/apm-rum')
+const elasticApm = require('@ipsum/apm-rum')
+const { init: namedInit, apm, apmBase, ApmBase } = require('@ipsum/apm-rum')
 
 describe('apm base', () => {
   it('should have default and named exports', () => {
@@ -45,7 +45,7 @@ describe('apm base', () => {
     for (let moduleId in cache) {
       delete cache[moduleId]
     }
-    require('@elastic/apm-rum')
+    require('@ipsum/apm-rum')
 
     expect(console.log).not.toHaveBeenCalled()
   })

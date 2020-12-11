@@ -30,8 +30,8 @@ import {
   platformBrowserDynamicTesting
 } from '@angular/platform-browser-dynamic/testing'
 import { ErrorHandler } from '@angular/core'
-import { ApmBase } from '@elastic/apm-rum'
-import { createServiceFactory } from '@elastic/apm-rum-core'
+import { ApmBase } from '@ipsum/apm-rum'
+import { createServiceFactory } from '@ipsum/apm-rum-core'
 
 describe('ApmErrorHandler', () => {
   let errorHandler: ApmErrorHandler

@@ -37,7 +37,7 @@ with long tasks to reveal the true source code location.
 [[typescript]]
 === Using with TypeScript
 
-RUM agent publishes the type definitions for the `@elastic/apm-rum` package via `types` property in `package.json`.
+RUM agent publishes the type definitions for the `@ipsum/apm-rum` package via `types` property in `package.json`.
 If you are importing the package on a TypeScript codebase, you will get automatic code completion, hover info
 and method signature information on supported platforms (Visual Studio Code, etc)
 
@@ -74,7 +74,7 @@ meaningful that groups transactions under the same categories (blog, guide, etc.
 
 [source,js]
 ----
-import {apm} from '@elastic/apm-rum'
+import {apm} from '@ipsum/apm-rum'
 
 apm.init({
     serviceName: "service-name",

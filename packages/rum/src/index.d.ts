@@ -23,7 +23,7 @@
  *
  */
 
-declare module '@elastic/apm-rum' {
+declare module '@ipsum/apm-rum' {
   type Init = (options?: AgentConfigOptions) => ApmBase
   const init: Init
 
@@ -165,7 +165,7 @@ interface Labels {
 }
 
 /**
- * TODO: Will be imported from @elastic/apm-rum-core typings
+ * TODO: Will be imported from @ipsum/apm-rum-core typings
  * once available
  */
 interface ServiceFactory {

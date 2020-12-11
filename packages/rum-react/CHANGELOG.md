@@ -3,23 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.2.6](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.2.5...@elastic/apm-rum-react@1.2.6) (2020-11-06)
+## [1.2.6](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.2.5...@ipsum/apm-rum-react@1.2.6) (2020-11-06)
 
-**Note:** Version bump only for package @elastic/apm-rum-react
-
-
-
-
-
-## [1.2.5](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.2.4...@elastic/apm-rum-react@1.2.5) (2020-09-29)
-
-**Note:** Version bump only for package @elastic/apm-rum-react
+**Note:** Version bump only for package @ipsum/apm-rum-react
 
 
 
 
 
-## [1.2.4](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.2.3...@elastic/apm-rum-react@1.2.4) (2020-09-17)
+## [1.2.5](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.2.4...@ipsum/apm-rum-react@1.2.5) (2020-09-29)
+
+**Note:** Version bump only for package @ipsum/apm-rum-react
+
+
+
+
+
+## [1.2.4](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.2.3...@ipsum/apm-rum-react@1.2.4) (2020-09-17)
 
 
 ### Bug Fixes
@@ -30,31 +30,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.3](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.2.2...@elastic/apm-rum-react@1.2.3) (2020-08-18)
+## [1.2.3](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.2.2...@ipsum/apm-rum-react@1.2.3) (2020-08-18)
 
-**Note:** Version bump only for package @elastic/apm-rum-react
-
-
-
-
-
-## [1.2.2](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.2.1...@elastic/apm-rum-react@1.2.2) (2020-07-29)
-
-**Note:** Version bump only for package @elastic/apm-rum-react
+**Note:** Version bump only for package @ipsum/apm-rum-react
 
 
 
 
 
-## [1.2.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.2.0...@elastic/apm-rum-react@1.2.1) (2020-07-06)
+## [1.2.2](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.2.1...@ipsum/apm-rum-react@1.2.2) (2020-07-29)
 
-**Note:** Version bump only for package @elastic/apm-rum-react
-
-
+**Note:** Version bump only for package @ipsum/apm-rum-react
 
 
 
-# [1.2.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.1.2...@elastic/apm-rum-react@1.2.0) (2020-06-24)
+
+
+## [1.2.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.2.0...@ipsum/apm-rum-react@1.2.1) (2020-07-06)
+
+**Note:** Version bump only for package @ipsum/apm-rum-react
+
+
+
+
+
+# [1.2.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.1.2...@ipsum/apm-rum-react@1.2.0) (2020-06-24)
 
 
 ### Features
@@ -65,7 +65,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.2](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.1.1...@elastic/apm-rum-react@1.1.2) (2020-05-28)
+## [1.1.2](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.1.1...@ipsum/apm-rum-react@1.1.2) (2020-05-28)
 
 
 ### Bug Fixes
@@ -81,7 +81,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.1.0...@elastic/apm-rum-react@1.1.1) (2020-04-15)
+## [1.1.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.1.0...@ipsum/apm-rum-react@1.1.1) (2020-04-15)
 
 
 ### Bug Fixes
@@ -92,7 +92,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.1.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@1.0.0...@elastic/apm-rum-react@1.1.0) (2020-04-08)
+# [1.1.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@1.0.0...@ipsum/apm-rum-react@1.1.0) (2020-04-08)
 
 
 ### Features
@@ -108,23 +108,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.4.1...@elastic/apm-rum-react@1.0.0) (2020-03-18)
+# [1.0.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.4.1...@ipsum/apm-rum-react@1.0.0) (2020-03-18)
 
-**Note:** Version bump only for package @elastic/apm-rum-react
-
-
-
-
-
-## [0.4.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.4.0...@elastic/apm-rum-react@0.4.1) (2020-03-09)
-
-**Note:** Version bump only for package @elastic/apm-rum-react
+**Note:** Version bump only for package @ipsum/apm-rum-react
 
 
 
 
 
-# [0.4.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.3.6...@elastic/apm-rum-react@0.4.0) (2020-03-03)
+## [0.4.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.4.0...@ipsum/apm-rum-react@0.4.1) (2020-03-09)
+
+**Note:** Version bump only for package @ipsum/apm-rum-react
+
+
+
+
+
+# [0.4.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.3.6...@ipsum/apm-rum-react@0.4.0) (2020-03-03)
 
 
 ### Features
@@ -135,55 +135,55 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.6](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.3.5...@elastic/apm-rum-react@0.3.6) (2020-02-14)
+## [0.3.6](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.3.5...@ipsum/apm-rum-react@0.3.6) (2020-02-14)
 
-**Note:** Version bump only for package @elastic/apm-rum-react
-
-
-
-
-
-## [0.3.5](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.3.4...@elastic/apm-rum-react@0.3.5) (2020-02-13)
-
-**Note:** Version bump only for package @elastic/apm-rum-react
+**Note:** Version bump only for package @ipsum/apm-rum-react
 
 
 
 
 
-## [0.3.4](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.3.3...@elastic/apm-rum-react@0.3.4) (2020-01-30)
+## [0.3.5](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.3.4...@ipsum/apm-rum-react@0.3.5) (2020-02-13)
 
-**Note:** Version bump only for package @elastic/apm-rum-react
-
-
-
-
-
-## [0.3.3](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.3.2...@elastic/apm-rum-react@0.3.3) (2020-01-15)
-
-**Note:** Version bump only for package @elastic/apm-rum-react
+**Note:** Version bump only for package @ipsum/apm-rum-react
 
 
 
 
 
-## [0.3.2](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.3.1...@elastic/apm-rum-react@0.3.2) (2019-11-19)
+## [0.3.4](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.3.3...@ipsum/apm-rum-react@0.3.4) (2020-01-30)
 
-**Note:** Version bump only for package @elastic/apm-rum-react
-
-
-
-
-
-## [0.3.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.3.0...@elastic/apm-rum-react@0.3.1) (2019-10-09)
-
-**Note:** Version bump only for package @elastic/apm-rum-react
+**Note:** Version bump only for package @ipsum/apm-rum-react
 
 
 
 
 
-# [0.3.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.2.4...@elastic/apm-rum-react@0.3.0) (2019-09-30)
+## [0.3.3](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.3.2...@ipsum/apm-rum-react@0.3.3) (2020-01-15)
+
+**Note:** Version bump only for package @ipsum/apm-rum-react
+
+
+
+
+
+## [0.3.2](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.3.1...@ipsum/apm-rum-react@0.3.2) (2019-11-19)
+
+**Note:** Version bump only for package @ipsum/apm-rum-react
+
+
+
+
+
+## [0.3.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.3.0...@ipsum/apm-rum-react@0.3.1) (2019-10-09)
+
+**Note:** Version bump only for package @ipsum/apm-rum-react
+
+
+
+
+
+# [0.3.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.2.4...@ipsum/apm-rum-react@0.3.0) (2019-09-30)
 
 
 ### Bug Fixes
@@ -201,7 +201,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.4](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.2.3...@elastic/apm-rum-react@0.2.4) (2019-09-17)
+## [0.2.4](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.2.3...@ipsum/apm-rum-react@0.2.4) (2019-09-17)
 
 
 ### Bug Fixes
@@ -212,7 +212,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.3](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.2.2...@elastic/apm-rum-react@0.2.3) (2019-09-03)
+## [0.2.3](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.2.2...@ipsum/apm-rum-react@0.2.3) (2019-09-03)
 
 
 ### Bug Fixes
@@ -223,23 +223,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.2](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.2.1...@elastic/apm-rum-react@0.2.2) (2019-08-08)
+## [0.2.2](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.2.1...@ipsum/apm-rum-react@0.2.2) (2019-08-08)
 
-**Note:** Version bump only for package @elastic/apm-rum-react
-
-
-
-
-
-## [0.2.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.2.0...@elastic/apm-rum-react@0.2.1) (2019-08-05)
-
-**Note:** Version bump only for package @elastic/apm-rum-react
+**Note:** Version bump only for package @ipsum/apm-rum-react
 
 
 
 
 
-# [0.2.0](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.1.1...@elastic/apm-rum-react@0.2.0) (2019-08-05)
+## [0.2.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.2.0...@ipsum/apm-rum-react@0.2.1) (2019-08-05)
+
+**Note:** Version bump only for package @ipsum/apm-rum-react
+
+
+
+
+
+# [0.2.0](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.1.1...@ipsum/apm-rum-react@0.2.0) (2019-08-05)
 
 
 ### Bug Fixes
@@ -255,7 +255,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/elastic/apm-agent-rum-js/compare/@elastic/apm-rum-react@0.1.0...@elastic/apm-rum-react@0.1.1) (2019-07-25)
+## [0.1.1](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-react@0.1.0...@ipsum/apm-rum-react@0.1.1) (2019-07-25)
 
 
 ### Bug Fixes

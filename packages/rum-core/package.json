@@ -1,5 +1,5 @@
 {
-  "name": "@elastic/apm-rum-core",
+  "name": "@ipsum/apm-rum-core",
   "version": "5.8.0",
   "description": "Elastic apm core",
   "license": "MIT",

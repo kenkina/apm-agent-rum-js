@@ -11,8 +11,8 @@ pipeline {
     JOB_GCS_BUCKET = credentials('gcs-bucket')
     PIPELINE_LOG_LEVEL = 'INFO'
     CODECOV_SECRET = 'secret/apm-team/ci/apm-agent-rum-codecov'
-    SAUCELABS_SECRET_CORE = 'secret/apm-team/ci/apm-agent-rum-saucelabs@elastic/apm-rum-core'
-    SAUCELABS_SECRET = 'secret/apm-team/ci/apm-agent-rum-saucelabs@elastic/apm-rum'
+    SAUCELABS_SECRET_CORE = 'secret/apm-team/ci/apm-agent-rum-saucelabs@ipsum/apm-rum-core'
+    SAUCELABS_SECRET = 'secret/apm-team/ci/apm-agent-rum-saucelabs@ipsum/apm-rum'
     DOCKER_ELASTIC_SECRET = 'secret/apm-team/ci/docker-registry/prod'
     GITHUB_CHECK_ITS_NAME = 'Integration Tests'
     ITS_PIPELINE = 'apm-integration-tests-selector-mbp/master'
@@ -113,11 +113,11 @@ pipeline {
                 axis {
                   name 'SCOPE'
                   values (
-                    '@elastic/apm-rum',
-                    '@elastic/apm-rum-core',
-                    '@elastic/apm-rum-react',
-                    '@elastic/apm-rum-angular',
-                    '@elastic/apm-rum-vue',
+                    '@ipsum/apm-rum',
+                    '@ipsum/apm-rum-core',
+                    '@ipsum/apm-rum-react',
+                    '@ipsum/apm-rum-angular',
+                    '@ipsum/apm-rum-vue',
                   )
                 }
             }
@@ -375,7 +375,7 @@ pipeline {
           options { skipDefaultCheckout() }
           when {
             beforeAgent true
-            tag pattern: '@elastic/apm-rum@\\d+\\.\\d+\\.\\d+$', comparator: 'REGEXP'
+            tag pattern: '@ipsum/apm-rum@\\d+\\.\\d+\\.\\d+$', comparator: 'REGEXP'
           }
           environment {
             REPO_NAME = "${OPBEANS_REPO}"
@@ -533,11 +533,11 @@ def prepareRelease(String nodeVersion='node:lts', Closure body){
 
 def runAllScopes(){
   def scopes = [
-    'SCOPE=@elastic/apm-rum-core',
-    'SCOPE=@elastic/apm-rum',
-    'SCOPE=@elastic/apm-rum-react',
-    'SCOPE=@elastic/apm-rum-angular',
-    'SCOPE=@elastic/apm-rum-vue'
+    'SCOPE=@ipsum/apm-rum-core',
+    'SCOPE=@ipsum/apm-rum',
+    'SCOPE=@ipsum/apm-rum-react',
+    'SCOPE=@ipsum/apm-rum-angular',
+    'SCOPE=@ipsum/apm-rum-vue'
   ]
   scopes.each{ s ->
     withEnv([s]){

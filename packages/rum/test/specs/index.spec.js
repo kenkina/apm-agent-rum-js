@@ -25,7 +25,7 @@
 
 import Promise from 'promise-polyfill'
 import { apmBase } from '../../src/'
-import { isPlatformSupported } from '@elastic/apm-rum-core'
+import { isPlatformSupported } from '@ipsum/apm-rum-core'
 import { getGlobalConfig } from '../../../../dev-utils/test-config'
 
 describe('index', function() {
