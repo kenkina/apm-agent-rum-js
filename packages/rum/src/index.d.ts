@@ -131,6 +131,7 @@ interface AgentConfigOptions {
   transactionSampleRate?: number
   centralConfig?: boolean
   ignoreTransactions?: Array<string | RegExp>
+  additionalHeaders?: { [key: string]: string }
 }
 
 interface TransactionOptions {

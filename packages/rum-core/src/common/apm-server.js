@@ -77,9 +77,10 @@ class ApmServer {
     )
   }
 
-  _postJson(endPoint, payload) {
+  _postJson(endPoint, payload, additionalHeaders) {
     const headers = {
-      'Content-Type': 'application/x-ndjson'
+      'Content-Type': 'application/x-ndjson',
+      ...additionalHeaders
     }
     return compressPayload(payload, headers)
       .catch(error => {
@@ -313,7 +314,8 @@ class ApmServer {
     )
     const ndjsonPayload = ndjson.join('')
     const endPoint = cfg.get('serverUrl') + `/intake/v${apiVersion}/rum/events`
-    return this._postJson(endPoint, ndjsonPayload)
+    const additionalHeaders = cfg.get('additionalHeaders')
+    return this._postJson(endPoint, ndjsonPayload, additionalHeaders)
   }
 }
 
