@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.2.0 (2020-12-11)
+
+
+### Bug Fixes
+
+* **rum:** do not instrument frameworks when agent is inactive ([#885](https://github.com/elastic/apm-agent-rum-js/issues/885)) ([861a499](https://github.com/elastic/apm-agent-rum-js/commit/861a499b0fa6f524e590a2e8368e8e1a2bbac684))
+* **rum-core:** schedule xhr invoke task as a macro task ([#480](https://github.com/elastic/apm-agent-rum-js/issues/480)) ([d4f181f](https://github.com/elastic/apm-agent-rum-js/commit/d4f181fd6c521dd85ec4d5a8abc9b516a75fb269)), closes [#390](https://github.com/elastic/apm-agent-rum-js/issues/390)
+
+
+### Features
+
+* vue router integration with rum agent ([#460](https://github.com/elastic/apm-agent-rum-js/issues/460)) ([228e157](https://github.com/elastic/apm-agent-rum-js/commit/228e157851f4df7448f8bfcdd4b4b57129707992))
+* **rum-core:** end spa navigations after browser frame ([#730](https://github.com/elastic/apm-agent-rum-js/issues/730)) ([5397fa2](https://github.com/elastic/apm-agent-rum-js/commit/5397fa22eb88c080f7a6d07ef5b89dfefc572fb3))
+* **rum-core:** use global promise when available and fallback ([#629](https://github.com/elastic/apm-agent-rum-js/issues/629)) ([65f08e0](https://github.com/elastic/apm-agent-rum-js/commit/65f08e06d2819a5ba76f476d9a4bc1dfd7fe788b))
+* **rum-vue:** capture errors in vue app automatically ([#575](https://github.com/elastic/apm-agent-rum-js/issues/575)) ([1a2e214](https://github.com/elastic/apm-agent-rum-js/commit/1a2e2148ca91ff7073b898963d73631233eb3b99))
+* **rum-vue:** only hook router if provided ([#553](https://github.com/elastic/apm-agent-rum-js/issues/553)) ([82a83fa](https://github.com/elastic/apm-agent-rum-js/commit/82a83fab84151575405443d342147e7459441b81))
+
+
+### Performance Improvements
+
+* **rum-core:** random number generator using crypto.getRandomValues ([#705](https://github.com/elastic/apm-agent-rum-js/issues/705)) ([ce0db92](https://github.com/elastic/apm-agent-rum-js/commit/ce0db92d1ba057def0c81595340de4e9e59c4872))
+* refactor ServiceFactory to use constant service names ([#764](https://github.com/elastic/apm-agent-rum-js/issues/764)) ([fdda235](https://github.com/elastic/apm-agent-rum-js/commit/fdda23555b418166727d85f143e84a16079d83e6)), closes [#238](https://github.com/elastic/apm-agent-rum-js/issues/238)
+
+
+
+
+
 ## [1.1.9](https://github.com/elastic/apm-agent-rum-js/compare/@ipsum/apm-rum-vue@1.1.8...@ipsum/apm-rum-vue@1.1.9) (2020-11-06)
 
 **Note:** Version bump only for package @ipsum/apm-rum-vue
